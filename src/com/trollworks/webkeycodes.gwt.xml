@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='webkeycodes'>
+  <!-- Inherit the core Web Toolkit stuff.                        -->
+  <inherits name='com.google.gwt.user.User'/>
+
+  <!-- Specify the app entry point class.                         -->
+  <entry-point class='com.trollworks.webkeycodes.WebKeyCodes'/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='webkeycodes'/>
+</module>
